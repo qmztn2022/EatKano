@@ -18,7 +18,7 @@ _🦌 网页小游戏 🥛_
 |
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages](https://qmztn2022.github.io/EatKano/)
 
 ## 可选功能
 
